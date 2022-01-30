@@ -1,2 +1,3 @@
-# desafiogithub
-dio desafio git hub primeiro repositorio
+# Dio Desafio Git Hub
+## Primeiro repósitório
+**Repositório criado em aula**
